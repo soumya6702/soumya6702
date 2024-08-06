@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @soumya6702
+- 👋 Hi, I’m Soumya 
 - 👀 I’m interested in developing new projects
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently pursuing my Btech final year in Computer Science Engineering specializes in Data science.
 - 📫 How to reach me gmail: soumyagoud615@gmail.com
 - 😄 Pronouns: her/she
 
